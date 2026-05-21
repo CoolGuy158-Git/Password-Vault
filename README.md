@@ -30,7 +30,7 @@ Checks the user password by having three cats:
 
 ## What module used for save and gen
 
-Keyring for saving
+Keyring for saving ("Keyring library provides an easy way to access the system keyring service from python." -https://pypi.org/project/keyring/)
 
 Secrets for generating (Attempted to make my own password generator, but I ended up making somthing that uhh, just go read rant if you want to know.)
 
